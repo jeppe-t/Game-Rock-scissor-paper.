@@ -1,1 +1,1 @@
-# OnsdagsOpg_Sten-saks-Papir
+# Rock, scissor, paper.
